@@ -1,0 +1,18 @@
+"{
+     int x;
+     x = 3 + 4;
+}
+x = ?",var_q1,1,12,8,7,3,2,
+"{
+    String x = "hello";
+    String y = "world";
+    System.out.println(x + y);
+}
+What will print?",str_q1,1,Hello world,helloworld,hello world, HelloWorld,1,
+"{
+     int x = 7;
+     if(x > 4) {
+          System.out.print("Hello");
+     }
+}
+Is anything printed?",bool_q1,2,Yes,No,0,
